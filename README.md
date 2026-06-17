@@ -8,6 +8,16 @@ The objective is to predict **next-hour Carbon Monoxide (CO) concentration** usi
 
 This work simulates a real-world **industrial IoT environmental monitoring system**, where multiple gas sensors continuously collect atmospheric data for pollution tracking and early warning systems.
 
+## Industrial Context
+
+Modern smart cities and industrial environments deploy IoT-based air quality monitoring systems to:
+
+- Monitor pollution levels in real time
+- Track regulatory compliance
+- Detect harmful emission spikes
+- Support public health risk assessment
+
+The dataset used in this project represents measurements collected from a multi-sensor gas monitoring system. The goal is to forecast short-term CO concentration trends using historical data.
 
 ##  Target Variable
 
